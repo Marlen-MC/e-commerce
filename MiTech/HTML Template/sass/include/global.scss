@@ -1,0 +1,6 @@
+/* global classes */
+
+button,button:focus{
+    outline: none !important;
+    box-shadow: fade-in($color: #000000, $amount: 0) !important;
+}
